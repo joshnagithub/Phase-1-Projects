@@ -39,7 +39,5 @@ public class arthimetic {
 			default:
 				System.out.printf("%c is an invalid operator", operator);
 		}
-
 	}
-
 }

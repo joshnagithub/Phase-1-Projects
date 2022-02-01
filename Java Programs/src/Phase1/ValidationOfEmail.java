@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ValidationoOfEmail {
+public class ValidationOfEmail {
 
 	public static boolean isValidEmail(String email) {
 		String regex = "^(.+)@(.+)$";
